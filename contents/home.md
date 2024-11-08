@@ -5,7 +5,7 @@
 I am currently pursuing a Master's Degree in Financial Economics, at Business School of University of Wisconsin-Madison,
 
 #### Email
-lhuang329@wisc.edu
+lhuang329@wisc.edu \
 julia.l.huang@outlook.com
 
 #### Education
